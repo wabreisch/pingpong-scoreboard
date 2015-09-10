@@ -1,0 +1,17 @@
+body {
+  font-family: "Blue Highway", sans-serif;
+}
+
+h1 {
+  text-align: center;
+  margin-bottom: 40px;
+}
+
+h2, h3 {
+  text-align: center;
+}
+
+p.score {
+  text-align: center;
+  font-size: 8em;
+}
